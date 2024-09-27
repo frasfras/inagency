@@ -66,7 +66,7 @@ const GPTReactAppOffer = () => {
         <h1 className="text-3xl font-bold mb-4">Our agency will develop chatgpt or gpt based, ai saas, ai app, ai website, ai chatbot in React</h1>
         <div className="flex items-center gap-2 mb-4">
           <img src="/api/placeholder/32/32" alt="Nestedpie logo" className="rounded-full" />
-          <span className="font-semibold">Nestedpie</span>
+          <span className="font-semibold">Trident</span>
           <span className="bg-yellow-400 text-xs font-bold px-2 py-1 rounded">Top Rated</span>
           <div className="flex items-center">
             <Star className="w-4 h-4 text-yellow-400 fill-current" />
