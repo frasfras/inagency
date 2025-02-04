@@ -1,6 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-// import { Card } from '@/components/ui/card';
-// import { Button } from '@/components/ui/button';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { PlayCircle, PauseCircle, Upload } from 'lucide-react';
 
