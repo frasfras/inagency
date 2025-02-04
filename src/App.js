@@ -1,6 +1,5 @@
 import React from "react";
 import GPTReactAppOffer from "./GPTReactAppOffer";
-import BaseballMetricsAnalyzer from "./BaseballMetricsAnalyzer";
 
 function App() {
   return (
